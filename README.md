@@ -1,7 +1,26 @@
-### Hi there 👋, i am Jay Pardeshi
+### Hi there 👋, I am Jay Pardeshi
 #### A passionate Data Science Enthusiast
 * 🔭 I’m currently working on Machine Learning Projects
 * 👯 I’m looking to collaborate on any data science projects
+
+<h3> 💻 Languages and Tools </h3>
+  <p>
+   <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
+<code><a href="https://www.tableau.com/" target="_blank"><img height="50" src="https://img.icons8.com/color/512/tableau-software.png"></a></code>
+  <p>
+</div> 
+
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/jay-pardeshi-385470153/">
+  <img align="left" alt="Jay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Jaypardeshii">
+  <img align="left" alt="Jay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 
 <!--
